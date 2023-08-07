@@ -66,13 +66,6 @@ p {
   color: rgba(255, 255, 0, 0.71);
   text-align: center;
 }
-
-
-
-
-
-
-
 .slide-container{
   max-width: 1500px; 
   width: 100%; 
@@ -410,11 +403,12 @@ p {
     width: 80px;
     padding-bottom: 5px;
   }
-  .head2{
-    height: 100px; 
-    padding: 35px; 
-  }
-  .head2 h2{
+    .head2 {
+    height: 50px;
+    padding: 20px;
+    padding-bottom: 0px;
+}
+     .head2 h2{
     font-size: 17px; 
     font-family: ui-sans-serif; 
     font-style: italic;
